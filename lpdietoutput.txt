@@ -1,0 +1,71 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
+Welcome to the CBC MILP Solver \
+Version: 2.10.3 \
+Build Date: Dec 15 2019 \
+\
+command line - /Users/connorcassedy/anaconda3/lib/python3.10/site-packages/pulp/solverdir/cbc/osx/64/cbc /var/folders/_1/4_mvj9kx2dgf5mnfh5crbglw0000gn/T/3069fe16732c46cd86cd4180ce0f94fa-pulp.mps timeMode elapsed branch printingOptions all solution /var/folders/_1/4_mvj9kx2dgf5mnfh5crbglw0000gn/T/3069fe16732c46cd86cd4180ce0f94fa-pulp.sol (default strategy 1)\
+At line 2 NAME          MODEL\
+At line 3 ROWS\
+At line 12 COLUMNS\
+At line 45 RHS\
+At line 53 BOUNDS\
+At line 54 ENDATA\
+Problem MODEL has 7 rows, 5 columns and 27 elements\
+Coin0008I MODEL read with 0 errors\
+Option for timeMode changed from cpu to elapsed\
+Presolve 5 (-2) rows, 5 (0) columns and 21 (-6) elements\
+0  Obj 22.48 Primal inf 26.699023 (4)\
+2  Obj 50.82\
+Optimal - objective value 50.82\
+After Postsolve, objective 50.82, infeasibilities - dual 0 (0), primal 0 (0)\
+Optimal objective 50.82 - 2 iterations time 0.002, Presolve 0.00\
+Option for printingOptions changed from normal to all\
+Total time (CPU seconds):       0.00   (Wallclock seconds):       0.01\
+\
+Pulp Solution for x1, x2, x3, x4, x5\
+65.0\
+0.0\
+0.0\
+10.0\
+0.0\
+\
+____________________________________________________________________\
+\
+\
+Welcome to the CBC MILP Solver \
+Version: 2.10.3 \
+Build Date: Dec 15 2019 \
+\
+command line - /Users/connorcassedy/anaconda3/lib/python3.10/site-packages/pulp/solverdir/cbc/osx/64/cbc /var/folders/_1/4_mvj9kx2dgf5mnfh5crbglw0000gn/T/637ac4282140492381517b6df21ba826-pulp.mps timeMode elapsed branch printingOptions all solution /var/folders/_1/4_mvj9kx2dgf5mnfh5crbglw0000gn/T/637ac4282140492381517b6df21ba826-pulp.sol (default strategy 1)\
+At line 2 NAME          MODEL\
+At line 3 ROWS\
+At line 14 COLUMNS\
+At line 53 RHS\
+At line 63 BOUNDS\
+At line 64 ENDATA\
+Problem MODEL has 9 rows, 5 columns and 33 elements\
+Coin0008I MODEL read with 0 errors\
+Option for timeMode changed from cpu to elapsed\
+Presolve 7 (-2) rows, 5 (0) columns and 27 (-6) elements\
+0  Obj 22.48 Primal inf 29.810133 (5)\
+2  Obj 50.82\
+Optimal - objective value 50.82\
+After Postsolve, objective 50.82, infeasibilities - dual 0 (0), primal 0 (0)\
+Optimal objective 50.82 - 2 iterations time 0.002, Presolve 0.00\
+Option for printingOptions changed from normal to all\
+Total time (CPU seconds):       0.00   (Wallclock seconds):       0.01\
+\
+Pulp Solution for x1, x2, x3, x4, x5\
+65.0\
+0.0\
+0.0\
+10.0\
+0.0}
